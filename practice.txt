@@ -1,5 +1,9 @@
 This is only for practice nothing else.
 I will make this repo is final.
+<<<<<<< HEAD
+=======
+12345678910
+>>>>>>> 75fff5f59e858960bb48a8d1f7173cfc23187dff
 
 
 
